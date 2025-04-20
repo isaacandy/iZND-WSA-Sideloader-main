@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.sendKeybindingsToShell": true,
+		"freddy.freddyApiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkcF9kZXZlbG9wZXJfY29waWxvdCIsImFjY291bnRfaWQiOiIyMDk2Mzk0Njc2MzQyMzMiLCJ1c2VyX2lkIjoiMDU1MTEyMmUtNWU5Ni00OWZhLTllMmItYWFmMzQxMjAyNzNlIiwiYWNjb3VudF9kb21haW4iOiJpem5kLmZyZXNoY2hhdC5jb20iLCJwcm9kdWN0IjoiZnJlc2hjaGF0IiwidXNlcl9yb2xlIjoiZGV2ZWxvcGVyIiwidXNlcl9lbWFpbCI6Inl2b2VpbEBpem5kZ3JvdXAuY29tIiwidXNlcl9uYW1lIjoiWXZvbm5lIEFkZWxpbmUiLCJvcmdhbmlzYXRpb25faWQiOiIxMzkzNDU0OTk1NzcwMzE5NzUiLCJvcmdfZG9tYWluIjoic3VwcG9ydC5pem5kZ3JvdXAuY29tIiwiZnJlc2hpZF9hY2NvdW50X2lkIjoiMzAwMTgzMjA4NzA3NjYxOTk3IiwiZnJlc2hpZF91c2VyX2lkIjoiMTM5MzQ1NDk5NjY1MTEyMzcyIiwicG9kIjoicG9kdXNlYXN0MSIsInV1aWQiOiJhNTA2OWZhNy02M2FiLTQwZjktODUyMi1hYTIyYzYzZDk5MWEiLCJkZXZlbG9wZXJfYWNjb3VudF9pZCI6MTg1MjE3fQ.ihC543BAsEUdbz3t2iZK2RuUz7FTy43IUd15WlYgIJ4",
+		"freddy.name": "iZND Freddy AI"
+	}
+}
